@@ -1,7 +1,5 @@
 # Campus-Flow
-Campus-Flow is a full-stack web application designed to streamline assignment submission and management within a campus environment. It enables students to upload assignments digitally and allows administrators to manage and track submissions efficiently.
-
-This project is built using the MERN stack and focuses on authentication, secure file handling, and organized academic workflow management.
+Campus-Flow is a full-stack web application designed to streamline assignment submission and management within a campus environment. It enables students to upload assignments digitally and allows administrators to manage and track submissions efficiently.This project is built using the MERN stack and focuses on authentication, secure file handling, and organized academic workflow management.
 
 # Features
 👨‍🎓 Student Registration & Login (JWT Authentication)
