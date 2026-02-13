@@ -3,47 +3,29 @@ Campus-Flow is a full-stack web application designed to streamline assignment su
 
 ## Features
 
-Student Registration & Login (JWT Authentication)
-
-Assignment Upload System
-
-Secure File Storage
-
-Admin Dashboard for Managing Submissions
-
-Protected Routes
-
-REST API Integration
-
-Organized Assignment Tracking
-
+- Student Registration & Login (JWT Authentication)
+- Assignment Upload System
+- Secure File Storage
+- Admin Dashboard for Managing Submissions
+- Protected Routes
+- REST API Integration
+- Organized Assignment Tracking
 
 ## Tech Stack
 
 ### Frontend
-
-React.js
-
-Vite
-
-Axios
-
-React Router
-
+- React.js
+- Vite
+- Axios
+- React Router
 
 ### Backend
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Mongoose
-
-JWT Authentication
-
-Multer (for file uploads)
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- Multer (for file uploads)
 
 
 # Deployment Status
